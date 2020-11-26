@@ -13,7 +13,7 @@ namespace Classes.Heranca
 
         protected void CalcularDistancia()
         {
-
+            CalcularDistanciaTwo();
         }
         private void CalcularDistanciaOne()
         {
@@ -22,7 +22,7 @@ namespace Classes.Heranca
 
         public virtual void CalcularDistanciaTwo()
         {
-            
+
         }
     }
 }
