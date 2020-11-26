@@ -1,4 +1,5 @@
 ﻿using System;
+//using Classes.Heranca;
 
 namespace dotnet_classes
 {
@@ -6,7 +7,9 @@ namespace dotnet_classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Ponto p1 = new Ponto(10, 20);
+            //Ponto3D p2 = new Ponto3D(10, 20, 30);
+            //Ponto3D.Calcular()
         }
     }
 }
